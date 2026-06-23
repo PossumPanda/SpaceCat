@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   min-height: 100vh;
-  background: linear-gradient(180deg, #9F9FFF 0%, #0d1b6e 50%, #0a2a8a 100%);
+  background: linear-gradient(180deg, #9b6dce 0%, #7b4fa6 50%, #3d1a78 100%);
   background-attachment: fixed;
   color: var(--white);
   -webkit-font-smoothing: antialiased;
